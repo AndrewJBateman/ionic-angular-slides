@@ -37,11 +37,24 @@
 
 ## :computer: Code Examples
 
-* N/A
+* Simple template html ion-card
+
+```html
+  <ion-card>
+    <img src="../../assets/mountains.jpg" />
+    <ion-card-header>
+      <ion-card-title>Isn't it great?</ion-card-title>
+      <ion-card-subtitle>Look at this view!</ion-card-subtitle>
+    </ion-card-header>
+    <ion-card-content>
+      Although it does look cold.
+    </ion-card-content>
+  </ion-card>
+```
 
 ## :cool: Features
 
-* N/A
+* Responsive card with mountain view image
 
 ## :clipboard: Status & To-do list
 
