@@ -1,6 +1,7 @@
 # :zap: Ionic Angular Slides
 
 * App to display an image on a simple Ionic card, using the [Ionic 5 framework](https://ionicframework.com/docs) with Angular.
+  Tutorial code from [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)
 
 ## :page_facing_up: Table of contents
 
@@ -28,7 +29,7 @@
 
 * [Ionic/angular v5](https://ionicframework.com/)
 * [Ionic v5](https://ionicframework.com/)
-* [Angular v10](https://angular.io/)
+* [Angular v11](https://angular.io/)
 
 ## :floppy_disk: Setup
 
