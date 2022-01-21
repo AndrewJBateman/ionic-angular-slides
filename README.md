@@ -1,6 +1,6 @@
 # :zap: Ionic Angular Slides
 
-* App to display an image on a simple Ionic card, using the [Ionic 5 framework](https://ionicframework.com/docs) with Angular.
+* App to display an image on a simple Ionic card, using the [Ionic framework](https://ionicframework.com/docs) with Angular.
 * Tutorial code from [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - see [:clap: Inspiration](#clap-inspiration) below.
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
@@ -25,9 +25,9 @@
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
-
-* App creates html markup that can be re-used in the [Vue Framework version of this app](https://github.com/AndrewJBateman/ionic-vue-slide).
-* Nearly identical hmtl mark-up is used in a [React version of this app](https://github.com/AndrewJBateman/ionic-react-slides)
+* Updated to the latest Angular & Ionic versions, all dependencies updated
+* App creates HTML markup that can be re-used in the [Vue Framework version of this app](https://github.com/AndrewJBateman/ionic-vue-slide).
+* Nearly identical HTML mark-up is used in a [React version of this app](https://github.com/AndrewJBateman/ionic-react-slides)
 
 ## :camera: Screenshots
 
@@ -35,9 +35,9 @@
 
 ## :signal_strength: Technologies
 
-* [Ionic/angular v5](https://ionicframework.com/)
-* [Ionic v5](https://ionicframework.com/)
-* [Angular v12](https://angular.io/)
+* [Ionic/angular v6](https://ionicframework.com/)
+* [Ionic v6](https://ionicframework.com/)
+* [Angular v13](https://angular.io/)
 
 ## :floppy_disk: Setup
 
@@ -67,7 +67,7 @@
 
 ## :clipboard: Status & To-do list
 
-* Status: Working. Updated may 2021.
+* Status: Working.
 * To-do: add functionality
 
 ## :clap: Inspiration
