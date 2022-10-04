@@ -25,6 +25,7 @@
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
+
 * Updated to the latest Angular & Ionic versions, all dependencies updated
 * App creates HTML markup that can be re-used in the [Vue Framework version of this app](https://github.com/AndrewJBateman/ionic-vue-slide).
 * Nearly identical HTML mark-up is used in a [React version of this app](https://github.com/AndrewJBateman/ionic-react-slides)
@@ -37,7 +38,7 @@
 
 * [Ionic/angular v6](https://ionicframework.com/)
 * [Ionic v6](https://ionicframework.com/)
-* [Angular v13](https://angular.io/)
+* [Angular v14](https://angular.io/)
 
 ## :floppy_disk: Setup
 
